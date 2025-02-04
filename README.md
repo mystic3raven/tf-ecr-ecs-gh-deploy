@@ -42,3 +42,5 @@ The main goal is to provide an example configuration of the following workflow:
 - Update the corresponding ECS Service (by editing the task image)
 
 [ci-success]: https://github.com/tbobm/tf-ecr-ecs-gh-deploy/actions/runs/704500533
+
+
